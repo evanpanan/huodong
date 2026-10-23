@@ -1,0 +1,15 @@
+{
+  "name": "itinerary-collab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "行程排期台账 · 协作服务器（零依赖）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
